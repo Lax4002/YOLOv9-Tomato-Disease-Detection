@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local dataset
+dataset/
+archive.zip
+
+# YOLO training outputs and weights
+Tomato_Disease_Detection/
+runs/
+*.pt
+*.onnx
+*.engine
+
+# Generated results (keep the folder itself)
+results/*
+!results/.gitkeep
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
