@@ -1,4 +1,4 @@
-# MCE 531 — YOLOv9 Tomato Leaf Disease Detection
+# YOLOv9 Tomato Leaf Disease Detection
 
 A course project evaluating **YOLOv9c** for multi-class tomato leaf disease detection using transfer learning.
 
@@ -44,9 +44,9 @@ The project evaluates seven classes:
 ```text
 .
 ├── notebooks/
-│   └── MCE531_YOLOv9_Tomato_Disease.ipynb
+│   └── YOLOv9_Tomato_Disease.ipynb
 ├── report/
-│   └── Group5_YOLOv9_TomatoDisease_Report.pdf
+│   └── YOLOv9_TomatoDisease_Report.pdf
 ├── data/
 │   └── README.md
 ├── results/
